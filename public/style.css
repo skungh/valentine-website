@@ -2,7 +2,6 @@ html, body {
     margin: 0 !important;
     padding: 0 !important;
     overflow: hidden;
-    cursor: url('./images/pointer.png'), auto;
 }
 
 canvas {
@@ -14,8 +13,8 @@ canvas {
 #valentinesButton {
     display: none;
     position: absolute;
-    background-color: #2d2dff;
-    border: 2px solid #2d2dff;
+    background-color: #ff23bd;
+    border: 2px solid #ff23bd;
     color: #fff;
     cursor: pointer;
     height: 50px;
@@ -29,6 +28,6 @@ canvas {
   }
 
   #valentinesButton:hover {
-    background-color: #1f1faa;
+    background-color: #c71b93;
     color: #eee;
 }
